@@ -1,0 +1,14 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/river/Downloads/nuxtdeploy/nuxtdeploy/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/river/Downloads/nuxtdeploy/nuxtdeploy/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
